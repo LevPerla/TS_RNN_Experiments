@@ -1,0 +1,10 @@
+;Mean Absolute Error;Mean Squared Error;Symmetric Mean absolute percentage error;Root Mean Squared Error;Mean absolute percentage error
+HampelFilter_None_Differencer_MinMaxScaler;37.63;6003.46;2.17;45.67;2.14
+HampelFilter_Deseasonalizer_Differencer_None;33.47;3813.27;2.48;37.65;2.49
+HampelFilter_Deseasonalizer_Differencer_MinMaxScaler;45.24;7938.55;2.69;50.92;2.67
+HampelFilter_None_None_MinMaxScaler;57.01;13950.99;2.9;61.95;2.88
+HampelFilter_Deseasonalizer_None_MinMaxScaler;54.87;13716.15;2.94;59.7;2.92
+HampelFilter_Deseasonalizer_BoxCoxTransformer_MinMaxScaler;53.42;11252.53;3.07;57.84;3.05
+HampelFilter_Deseasonalizer_LogTransformer_MinMaxScaler;54.53;13495.56;3.12;59.66;3.1
+HampelFilter_None_LogTransformer_MinMaxScaler;54.25;9943.74;3.24;59.57;3.21
+HampelFilter_None_BoxCoxTransformer_MinMaxScaler;61.2;13771.92;3.5;66.83;3.46

@@ -1,0 +1,6 @@
+;Mean Absolute Error;Mean Squared Error;Symmetric Mean absolute percentage error;Root Mean Squared Error;Mean absolute percentage error
+DirMo;32.28;3501.02;1.82;38.21;1.81
+Direct;32.82;3685.85;1.84;38.94;1.83
+DirRec;34.11;3933.93;1.93;40.81;1.91
+Recursive;35.56;4415.34;1.96;42.8;1.95
+MiMo;37.75;6353.49;1.96;44.53;1.95

@@ -1,0 +1,5 @@
+Mean Absolute Error: 25.715
+Mean Squared Error: 783.138
+Symmetric Mean absolute percentage error: 4.371
+Root Mean Squared Error: 27.985
+Mean absolute percentage error: 4.261

@@ -1,0 +1,5 @@
+;Mean Absolute Error;Mean Squared Error;Symmetric Mean absolute percentage error;Root Mean Squared Error;Mean absolute percentage error
+LOCAL_WITH_FACTORS;30.31;3272.6;2.02;37.71;2.0
+LOCAL_WITHOUT_FACTORS;32.01;3947.23;2.1;39.95;2.07
+GLOBAL_WITHOUT_FACTORS;150.87;75732.38;7.66;171.63;7.21
+GLOBAL_WITH_FACTORS;155.39;79798.76;7.94;176.34;7.46
