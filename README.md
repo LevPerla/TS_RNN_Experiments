@@ -2,6 +2,7 @@
 Experiments setup to evaluate the performance of the RNN forecasting with different data processing method, forecasting strategies and cross-series methods 
 
 ## Dir tree
+```
 ├── experiments  
 │        ├── Compare_crossseries_info.ipynb - Experiment on the influence of cross-series methods of RNN forecasting on the quality of the RNN forecast  
 │        ├── Compare_data_transformers.ipynb - Experiment on the influence of data processing methods on the quality of the RNN forecast  
@@ -14,7 +15,7 @@ Experiments setup to evaluate the performance of the RNN forecasting with differ
 │        └── strategy_experiment_all_notdeseason - outputs of forecasting strategies experiment without deseason ts processing  
 ├── requirements.txt  
 ├── README.md  
-
+```
 
 ## Experiments
 [Compare_data_transformers](https://github.com/LevPerla/TS_RNN_Experiments/tree/master/experiments/Compare_data_transformers.ipynb)
