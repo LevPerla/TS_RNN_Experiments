@@ -13,6 +13,7 @@ Experiments setup to evaluate the performance of the RNN forecasting with differ
 │        ├── factors_experiment_all_notdeseason - outputs of cross-series methods experiment without deseason ts processing  
 │        ├── strategy_experiment_all - outputs of forecasting strategies experiment  
 │        └── strategy_experiment_all_notdeseason - outputs of forecasting strategies experiment without deseason ts processing  
+├── Master_thesis.pdf - (rus) text of my master thesis
 ├── requirements.txt  
 ├── README.md  
 ```
